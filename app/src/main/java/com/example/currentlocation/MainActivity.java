@@ -34,6 +34,8 @@ import java.util.List;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
+    int a = 5;
+
     boolean flag = true;
     Button btLocation;
     TextView textView1, textView2, textView3, textView4, textView5;
